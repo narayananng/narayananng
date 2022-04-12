@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @narayananng - (Narayanan N G)
+- 👀 I’m interested in Data and its management
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on Data Learners and Coders...
+- 📫 How to reach me : narayananng@gmail.com
